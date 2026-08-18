@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0283-move-zeroes) |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -45,9 +48,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
