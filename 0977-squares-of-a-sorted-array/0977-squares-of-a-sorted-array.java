@@ -1,6 +1,6 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int n=nums.length;
+        int n = nums.length;
         int[] result = new int[n];
 
         int right = n-1;
@@ -10,7 +10,7 @@ class Solution {
             int rightSquare = nums[right] * nums[right];
             int leftSquare = nums[left] * nums[left];
 
-            if(leftSquare>rightSquare){
+            if(leftSquare > rightSquare){
                 result[i] = leftSquare;
                 left++;
             }
