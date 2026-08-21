@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -71,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
