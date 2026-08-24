@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
