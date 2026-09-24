@@ -12,7 +12,6 @@ class Solution {
                 total += currentVal;
             }
         }
-
         return total;
     }
 
