@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
