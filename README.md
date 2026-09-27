@@ -112,8 +112,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
