@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
