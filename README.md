@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
