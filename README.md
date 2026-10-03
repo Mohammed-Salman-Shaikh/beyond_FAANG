@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0101-symmetric-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
