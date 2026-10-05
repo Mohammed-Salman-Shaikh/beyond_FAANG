@@ -4,13 +4,13 @@ class Solution {
             return 0;
         }
 
-        int k=0;
-        for(int i=0; i<nums.length; i++){
-            if(nums[i] != nums[k]){
-                k++;
-                nums[k] = nums[i];
+        int slow = 0;
+        for(int fast=0; fast < nums.length; fast++){
+            if(nums[fast] != nums[slow]){
+                slow++;
+                nums[slow] = nums[fast];
             }
         }
-        return k+1;
+        return slow+1;
     }
 }
