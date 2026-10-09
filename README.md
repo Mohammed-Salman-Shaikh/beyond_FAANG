@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0986-interval-list-intersections) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
