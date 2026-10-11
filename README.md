@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0435-non-overlapping-intervals) |
 ## Sweep Line
 |  |
