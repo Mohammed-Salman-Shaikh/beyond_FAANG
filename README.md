@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0704-binary-search) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0324-wiggle-sort-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
