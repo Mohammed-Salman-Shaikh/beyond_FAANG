@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0704-binary-search) |
+| [0845-longest-mountain-in-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0986-interval-list-intersections) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0845-longest-mountain-in-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0986-interval-list-intersections) |
 ## String
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0435-non-overlapping-intervals) |
+| [0845-longest-mountain-in-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0845-longest-mountain-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
