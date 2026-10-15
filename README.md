@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
