@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0845-longest-mountain-in-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0986-interval-list-intersections) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammed-Salman-Shaikh/beyond_FAANG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
 |  |
 | ------- |
